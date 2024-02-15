@@ -1,2 +1,2 @@
 # ai-frontend-interview-assistant
-openai,chatgpt,interview
+Using chatgpt to build a personal frontend interview assistant  
