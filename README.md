@@ -6,4 +6,6 @@ Using chatgpt to build a personal frontend interview assistant
 python version >= 3.8
 ```shell
 pip install -r requirements.txt
+python data.py
 ```
+upload .jsonl to openai assistant
