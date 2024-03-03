@@ -4,6 +4,9 @@ Using chatgpt to build a personal frontend interview assistant
 
 # Start
 python version >= 3.8
+```js
+conda activate py38
+```
 ```shell
 pip install -r requirements.txt
 python data.py
